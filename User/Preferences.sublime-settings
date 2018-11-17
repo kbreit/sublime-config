@@ -1,11 +1,12 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
+	"copy_with_empty_selection": false,
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"AnsibleSnippets",
 		"Markdown",
 		"Vintage"
 	],
-	"theme": "Adaptive.sublime-theme",
-	"copy_with_empty_selection": false
+	"theme": "Adaptive.sublime-theme"
 }
