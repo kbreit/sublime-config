@@ -8,5 +8,6 @@
 		"Markdown",
 		"Vintage"
 	],
-	"theme": "Adaptive.sublime-theme"
+	"theme": "Adaptive.sublime-theme",
+	"folder_exclude_patterns": ["__pycache__"]
 }
